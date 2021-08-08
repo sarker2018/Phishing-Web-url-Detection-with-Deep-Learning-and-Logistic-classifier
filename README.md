@@ -1,1 +1,1 @@
-# Phishing-Web-url-Detection-with-Deep-Learning-and-Logistic-classifier-and
+# Phishing-Web-url-Detection-with-Deep-Learning-and-Logistic-classifier
